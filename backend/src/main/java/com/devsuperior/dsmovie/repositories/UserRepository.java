@@ -1,6 +1,5 @@
 package com.devsuperior.dsmovie.repositories;
 
-import java.util.Optional;
 
 import com.devsuperior.dsmovie.entities.User;
 
