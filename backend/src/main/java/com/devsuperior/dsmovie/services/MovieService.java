@@ -1,7 +1,6 @@
 package com.devsuperior.dsmovie.services;
 
-import java.util.ArrayList;
-import java.util.List;
+
 import java.util.Optional;
 
 import com.devsuperior.dsmovie.dtos.MovieDto;
@@ -35,4 +34,5 @@ public class MovieService {
         }
         return new MovieDto(movie.get());
     }
+
 }
